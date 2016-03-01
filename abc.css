@@ -1,0 +1,36 @@
+﻿body {
+    background-color:whitesmoke ;
+}
+
+#header{
+    width:650px;
+	height: 80px;
+    text-align:right;
+    margin-top:px;
+	margin-bottom:50px;
+    margin-left:0px;
+    background-repeat:no-repeat;
+}
+
+#sideleft{
+     margin-left:110px;
+      margin-top:20px;
+
+}
+#top {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    width: 1200px;
+    height: 50px;
+}
+#bottom{
+    background-color:black;
+    color:white;
+    width:1200px;
+	height: 30px;
+     margin-top:45px;
+
+
+}
